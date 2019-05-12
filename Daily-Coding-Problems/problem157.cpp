@@ -10,8 +10,6 @@ int main(int argc , char *argv[]) {
     
     string s = "carrace";
 
-    bool palyndrome=false;
-
     int nbEven=0, nbOdd=0;
 
     if(argc==2) s=argv[1];
